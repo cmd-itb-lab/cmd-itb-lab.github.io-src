@@ -7,11 +7,4 @@ Finite difference in 1d for time-independent Schroedinger equation.
 
 <iframe style="width: 100%; height: 100%;" src="{static}html/FD1d_v1.html"></iframe>
 
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
-Long text Long text Long text Long text Long text Long text Long text Long text Long text
+Link: <a href="{static}html/FD1d_v1.html">notebook</a>.
