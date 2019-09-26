@@ -28,9 +28,34 @@ LINKS = (('ITB', 'https://itb.ac.id/'),
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
-DEFAULT_PAGINATION = 10
+DELETE_OUTPUT_DIRECTORY = True
+
+#DEFAULT_PAGINATION = 1
+
+#USE_FOLDER_AS_CATEGORY = True
+
+# Name your content directory posts
+#ARTICLE_PATHS = ['posts']
+
+#ARTICLE_URL = 'blog/{slug}/'
+#ARTICLE_SAVE_AS = 'blog/{slug}/index.html'
+#ARTICLE_ORDER_BY = 'date'
+
+MENUITEMS = (
+  ('Home', '/'),
+  ('Contact', '/contact.html'),
+  ('Members', '/members.html'),
+  ('Research', '/research-topics.html'),
+  ('Publications', '/publications.html'),  
+)
+
+DISPLAY_PAGES_ON_MENU = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
 STATIC_PATHS = ['html', 'images']
+
+# Plugins
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ["render_math"]

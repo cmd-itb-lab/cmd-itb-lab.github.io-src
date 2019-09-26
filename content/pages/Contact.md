@@ -1,8 +1,20 @@
 Title: Contact
+URL:
+save_as: contact.html
+
+Computational Material Design and Quantum-Engineering Laboratory
 
 <p><strong>Kelompok Keahlian Material Fungsional Maju</strong></p>
 
-<p><strong>Fakultas Teknologi Industri Institut Teknologi Bandung</strong></p>
+<p>Department of Engineering Physics, Institut Teknologi Bandung</p>
+
+<p><strong>Fakultas Teknologi Industri</p>
+
+<p>Institut Teknologi Bandung</strong></p>
+
+Gedung T.P. Rachmat (Labtek VI)
+
+Jalan Ganeca 10, Bandung 40132, Indonesia
 
 <p>Telp.: 022-250 4424, Ext. 213</p>
 

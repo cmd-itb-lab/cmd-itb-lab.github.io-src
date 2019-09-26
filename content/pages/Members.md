@@ -1,4 +1,8 @@
 Title: Members
+URL:
+save_as: members.html
+
+# Faculty and staffs
 
 <table style="width: 100%">
 
@@ -66,6 +70,14 @@ Title: Members
   </td>
 </tr>
 
-
 </table>
+
+
+# Students
+
+<a href="pages/students.html">Please see here</a>
+
+# Alumni
+
+<a href="pages/alumni.html">Please see here</a>
 
