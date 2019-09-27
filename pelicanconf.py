@@ -61,3 +61,9 @@ STATIC_PATHS = ['uploadedfiles', 'images']
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']
 PLUGINS = ["render_math"]
+
+MATH_JAX = {
+    "align": "center",
+    "font_list": ["TeX"],
+    "tex_extensions": ["braket.js", "mhchem.js"],
+}
