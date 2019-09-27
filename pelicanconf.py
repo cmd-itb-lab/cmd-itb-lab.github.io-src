@@ -47,12 +47,16 @@ MENUITEMS = (
   ('Publications', '/publications.html'),  
 )
 
+ARTICLE_EXCLUDES = [
+    'posts/uploadedfiles'
+]
+
 DISPLAY_PAGES_ON_MENU = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-STATIC_PATHS = ['html', 'images']
+STATIC_PATHS = ['uploadedfiles', 'images']
 
 # Plugins
 PLUGIN_PATHS = ['pelican-plugins']

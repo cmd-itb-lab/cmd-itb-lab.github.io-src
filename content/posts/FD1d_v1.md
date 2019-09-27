@@ -1,5 +1,5 @@
 Title: Finite Difference in 1D
-Date: 2019-08-08 22:26
+Date: 2019-06-26 22:26
 Category: Post
 Authors: Fadjar Fathurrahman
 
@@ -10,6 +10,6 @@ consist of coupled Schrodinger and Poisson equations.
 In the following notebooks I describe how to use simple finite difference method
 to solve Schrodinger equation in 1d for several simple potentials.
 
-<iframe style="width: 100%; height: 100%;" src="{static}html/FD1d_v1.html"></iframe>
+<iframe style="width: 100%; height: 100%;" src="{static}uploadedfiles/FD1d_v1.html"></iframe>
 
-Link: <a href="{static}html/FD1d_v1.html">notebook</a>.
+Link: <a href="{static}uploadedfiles/FD1d_v1.html">notebook</a>.
