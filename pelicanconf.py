@@ -28,8 +28,6 @@ LINKS = (('ITB', 'https://itb.ac.id/'),
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
-DELETE_OUTPUT_DIRECTORY = True
-
 #DEFAULT_PAGINATION = 1
 
 #USE_FOLDER_AS_CATEGORY = True
